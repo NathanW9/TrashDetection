@@ -1,5 +1,5 @@
 # TrashDetection
-Machine Learn - Convolutional Neural Network
+Machine Learning - Convolutional Neural Network
 
 Waste Classification
 
